@@ -4,7 +4,7 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-	name: "Hashir",
+	name: "Innocent",
 	links: [
 		{
 			title: "About",
@@ -25,8 +25,8 @@ export const navigation = {
 	],
 }
 export const intro = {
-	title: "Hey, I'm Hashir",
-	description: "A Computer Engineer creating mobile apps and static websites.",
+	title: "Hey, I'm Innocent Nzimenyera",
+	description: " Collecting, analyzing and interpreting data to help drive decision-making in an organization.",
 	image: profile.src,
 	buttons: [
 		{
@@ -45,18 +45,17 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering. I kick started my professional career as a mobile application developer working remotely for a UK based startup — Lessgo.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-		"When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+		"I am a data scientist that graduated in computer science from University of Rwanda and currently doing maters of science in information technology specialization of applied machine learning. Through experiences at a variety of organisations across the world I acquired skills covering the whole data science pipeline. Fluency in Python and R allows me to build data solutions including collection, processing, machine learning modeling, statistical analysis and visualization.",
+		"I am enjoying being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as I continue to learn new skills and development techniques that are important to me and the success of the organization. I am proactive, innovative, self-motivated and capable of working under minimum supervision.",
 	],
 }
 
 export const work = {
-	title: "What I do",
+	title: "Experiences",
 	cards: [
 		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+			title: "Global Green Growth Institute",font
+			description: "Working as Data science consultant from June 2021 – Present.",
 			icons: null,
 		},
 		{
