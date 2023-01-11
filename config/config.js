@@ -54,12 +54,12 @@ export const work = {
 	title: "Experiences",
 	cards: [
 		{
-			title: "Global Green Growth Institute",font,
+			title: "Global Green Growth Institute",
 			description: "Working as Data science consultant from June 2021 – Present.",
 			icons: null,
 		},
 		{
-			title: "Web Development",
+			title: "Global Green Growth Institute",
 			description: "I create responsive static websites using Reactjs.",
 			icons: null,
 		}
